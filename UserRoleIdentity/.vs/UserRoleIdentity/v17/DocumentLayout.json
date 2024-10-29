@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\repository\\impl\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\repository\\impl\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\service\\impl\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\service\\impl\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\service\\impl\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\service\\impl\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\model\\dto\\getproductbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\model\\dto\\getproductbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\repository\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\repository\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\repository\\impl\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\repository\\impl\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\data\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\data\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\data\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\data\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\model\\dto\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\model\\dto\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\model\\dto\\porductcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\model\\dto\\porductcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|c:\\users\\gamidismailov\\source\\repos\\productcategory\\userroleidentity\\userroleidentity\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237AA5B-E85B-4A78-8D5B-8DF61FD3BA80}|UserRoleIdentity\\UserRoleIdentity.csproj|solutionrelative:userroleidentity\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\appsettings.json",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\appsettings.json",
+              "RelativeToolTip": "UserRoleIdentity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T14:28:34.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Service\\impl\\ProductService.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Service\\impl\\ProductService.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Service\\impl\\ProductService.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Service\\impl\\ProductService.cs",
+              "ViewState": "AgIAAAcAAAAATDMzMzMMwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:52:34.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Repository\\interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Repository\\interface\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Repository\\interface\\IProductRepository.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Repository\\interface\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:56:42.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:46:23.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Service\\interface\\IProductService.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Service\\interface\\IProductService.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Service\\interface\\IProductService.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Service\\interface\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:53:01.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Repository\\impl\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Repository\\impl\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Repository\\impl\\ProductRepository.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Repository\\impl\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:57:11.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Mapper\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Mapper\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Mapper\\MapperProfile.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Mapper\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:00:51.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Service\\impl\\CategoryService.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Service\\impl\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Service\\impl\\CategoryService.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Service\\impl\\CategoryService.cs",
+              "ViewState": "AgIAAAwAAACgaGZmZmYowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:45:41.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Program.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Program.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAewFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:13:57.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductByIdDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Model\\DTO\\GetProductByIdDTO.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Model\\DTO\\GetProductByIdDTO.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Model\\DTO\\GetProductByIdDTO.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Model\\DTO\\GetProductByIdDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:28:39.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Repository\\interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Repository\\interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Repository\\interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Repository\\interface\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:03:05.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Repository\\impl\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Repository\\impl\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Repository\\impl\\CategoryRepository.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Repository\\impl\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:45:38.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Data\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Data\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Data\\Entity\\Product.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Data\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:48:11.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Data\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Data\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Data\\Entity\\Category.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Data\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:03:27.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Model\\DTO\\CategoryCreateDTO.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Model\\DTO\\CategoryCreateDTO.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Model\\DTO\\CategoryCreateDTO.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Model\\DTO\\CategoryCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:50:54.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PorductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Model\\DTO\\PorductCreateDTO.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Model\\DTO\\PorductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Model\\DTO\\PorductCreateDTO.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Model\\DTO\\PorductCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:17:33.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:45:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Service\\interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "UserRoleIdentity\\Service\\interface\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\gamidismailov\\source\\repos\\ProductCategory\\UserRoleIdentity\\UserRoleIdentity\\Service\\interface\\ICategoryService.cs",
+              "RelativeToolTip": "UserRoleIdentity\\Service\\interface\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:53:18.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@UserRoleIdentity_HostAddress = http://localhost:5008
+
+GET {{UserRoleIdentity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
